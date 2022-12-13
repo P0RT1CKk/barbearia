@@ -1,0 +1,80 @@
+header
+{background:lightgrey;
+  padding:20px 0;}
+
+.caixa
+{position:relative;
+ width:1300px;
+magin:0 auto;}
+
+nav
+{position:absolute;
+top:110px;
+right:0}
+
+nav li
+{display: inline;
+margin: 0 0 0 15px}
+
+nav a
+{text-transform:uppercase;
+color:black;
+font-weight:bold;
+font-size:22px;
+text-decoration: none}
+
+.cabeca 
+{text-align: center;}
+
+em strong {color: red;}
+
+h1
+ {font-size: 35px;
+  color:black;
+   Font-family:monospace.}
+
+p{font-size:20px;
+  color:black}
+
+#Barbearia
+{ 
+  width: 100%;
+  heitght:50%;
+}
+  
+h2
+  {
+   font-size: 25x;
+   color:black
+  }
+
+
+.principal
+{background:white;
+ padding:30px}
+
+.Beneficios
+{background-color:white}
+
+.titulo-principal
+{text-alingn:left;
+padding-left:20px}
+
+.listaitens
+{display:inline-block;
+vertical-align:top;
+width:20%; margin-right:15%;
+padding:20px}
+
+
+.imagembeneficios
+{width:50%}
+
+
+.itens
+
+{
+  text-align:left;
+  font-style:italic;
+  color:black
+}
